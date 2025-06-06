@@ -10,9 +10,21 @@
 
 <div align="center" id='built-with'>
 	
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white) ![Lefthook](https://img.shields.io/badge/Lefthook-FF1E1E.svg?style=for-the-badge&logo=lefthook&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Ink](https://img.shields.io/badge/ink-%23646CFF.svg?style=for-the-badge&logo=ink&logoColor=white) ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white) ![Lefthook](https://img.shields.io/badge/Lefthook-FF1E1E.svg?style=for-the-badge&logo=lefthook&logoColor=white) 
 
 </div>
+
+## Overview
+
+Cli-Boilerplate is a robust and flexible boilerplate designed for building command-line interfaces (CLI) using modern technologies like TypeScript, React, and Ink. It provides a solid foundation for creating interactive and efficient CLI tools with ease.
+
+## Contributions
+
+Contributions are welcome! If you have ideas, suggestions, or improvements, feel free to open an issue or submit a pull request. Please ensure your contributions align with the project's coding standards and guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 
